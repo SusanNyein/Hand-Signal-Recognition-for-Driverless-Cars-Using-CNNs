@@ -4,6 +4,9 @@ Check and refer to the document "Scientific Journal of Innovative Research.pdf".
 
 This is my Scientific Journal for "Hand Signals Recognition for Driverless Cars".
 
+
+
+
 *'Hand Signal Recognition' is based on the problem of recognition four types of hand-signals: 		
 	
 Start, Stop, Emergency Stop and Slow Down for driverless cars. And for this process, Convolutional Neural Network (CNN-AlexNet Model)
@@ -16,9 +19,12 @@ is used to recognize the hand-signals.
 
   
   
+  
 SOFTWARE REQUIREMENTS
 
   *MATLAB 2018a
+  
+  
   
  R2018a PRODUCT AND PLATFORM LIST
  
