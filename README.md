@@ -20,7 +20,7 @@ SOFTWARE REQUIREMENTS
 
   *MATLAB 2018a
   
- R2018a Product and Platform List
+ R2018a PRODUCT AND PLATFORM LIST
  
  MATLAB 9.4 - glnxa64 maci64 win64
  
