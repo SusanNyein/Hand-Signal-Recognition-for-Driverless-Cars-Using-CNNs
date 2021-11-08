@@ -1,8 +1,10 @@
 # Hand-Signal-Recognition-for-Driverless-Cars-Using-CNNs
 
-	*'Hand Signal Recognition' is based on the problem of recognition four types of hand-signals: 		Start, Stop, Emergency Stop and Slow Down for
-  
-  driverless cars. And for this process, 		Convolutional Neural Network (CNN-AlexNet Model) is used to recognize the hand-signals.
+	*'Hand Signal Recognition' is based on the problem of recognition four types of hand-signals: 		
+	
+	Start, Stop, Emergency Stop and Slow Down for driverless cars. And for this process, Convolutional Neural Network (CNN-AlexNet Model)
+	
+	is used to recognize the hand-signals.
 
 	*Training dataset has 2044 images and test dataset contains 200 images.
 
@@ -216,7 +218,6 @@ REFERENCES
 [5] “ImageNet Classification with Deep Convolutional Neural Networks”, Alex Krizhevsky, Ilya Sutskever, Geoffrey E. Hinton.
 
 [6] “Automatically identifying, counting and describing wild animals in camera-trap images with deep learning”, Mohammed Sadegh Norouzzadeh, Anh 
-
 Nguyen, Margaret Kosmala, Ali Swanson, Meredith Palmer Craig Packer, and Jeff Clune.
 
  
